@@ -1,0 +1,11 @@
+C:\Users\braya\source\repos\S.N(docente)\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Logica.dll
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Logica.pdb
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Datos.dll
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Entidad.dll
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Datos.pdb
+C:\Users\braya\source\repos\S.N(docente)\Logica\bin\Debug\Entidad.pdb
+C:\Users\braya\source\repos\S.N(docente)\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\S.N(docente)\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\braya\source\repos\S.N(docente)\Logica\obj\Debug\Logica.dll
+C:\Users\braya\source\repos\S.N(docente)\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,17 @@
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\PresentacionGUI.exe.config
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\PresentacionGUI.exe
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\PresentacionGUI.pdb
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.FormPrincipal.resources
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.Properties.Resources.resources
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.exe
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.pdb
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Entidad.dll
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Logica.dll
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Datos.dll
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Entidad.pdb
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Logica.pdb
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\bin\Debug\Datos.pdb
+C:\Users\braya\source\repos\S.N(docente)\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CopyComplete

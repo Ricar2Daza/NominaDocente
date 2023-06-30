@@ -1,0 +1,8 @@
+C:\Users\braya\source\repos\S.N(docente)\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\S.N(docente)\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\S.N(docente)\Datos\bin\Debug\Datos.dll
+C:\Users\braya\source\repos\S.N(docente)\Datos\bin\Debug\Datos.pdb
+C:\Users\braya\source\repos\S.N(docente)\Datos\bin\Debug\Entidad.dll
+C:\Users\braya\source\repos\S.N(docente)\Datos\bin\Debug\Entidad.pdb
+C:\Users\braya\source\repos\S.N(docente)\Datos\obj\Debug\Datos.dll
+C:\Users\braya\source\repos\S.N(docente)\Datos\obj\Debug\Datos.pdb

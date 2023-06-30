@@ -1,0 +1,101 @@
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe.config
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.pdb
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\BLL.dll
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\ENTITY.dll
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\DAL.dll
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\BLL.pdb
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\ENTITY.pdb
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\bin\Debug\DAL.pdb
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.AssemblyReference.cache
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.Properties.Resources.resources
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.GenerateResource.cache
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CoreCompileInputs.cache
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CopyComplete
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.exe
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.pdb
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmPrincipal.resources
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmConsultar.resources
+C:\Users\yesit\Source\Repos\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmRegistros.resources
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe.config
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.pdb
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.dll
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.dll
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.dll
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.pdb
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.pdb
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.pdb
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.AssemblyReference.cache
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmConsultar.resources
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmPrincipal.resources
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmRegistros.resources
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.Properties.Resources.resources
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.GenerateResource.cache
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CopyComplete
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.exe
+C:\Users\tonyb\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.pdb
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe.config
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.pdb
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.dll
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.dll
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.dll
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.pdb
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.pdb
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.pdb
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.AssemblyReference.cache
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmConsultar.resources
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmPrincipal.resources
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmRegistros.resources
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.Properties.Resources.resources
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.GenerateResource.cache
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CopyComplete
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.exe
+C:\Users\Ricardo Daza\Desktop\UPC SOMOS TODOS\Programacion3\Primer corte\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.pdb
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe.config
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.pdb
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.dll
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.dll
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.dll
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.pdb
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.pdb
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.pdb
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.AssemblyReference.cache
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmConsultar.resources
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmPrincipal.resources
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmRegistros.resources
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.Properties.Resources.resources
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.GenerateResource.cache
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CoreCompileInputs.cache
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CopyComplete
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.exe
+C:\Users\rikad\Downloads\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe.config
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\PresentacionNomina.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.dll
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.dll
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.dll
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\BLL.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\ENTITY.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\bin\Debug\DAL.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.AssemblyReference.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmConsultar.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmPrincipal.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.FrmRegistros.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.Properties.Resources.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.GenerateResource.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CoreCompileInputs.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.csproj.CopyComplete
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\BASADO EN\Nomina\Nomina\PresentacionNomina\obj\Debug\PresentacionNomina.pdb
